@@ -1,0 +1,14 @@
+#! /bin/bash
+
+css=""
+
+if [ -f styles.css ]; then
+    css="-c styles.css"
+    echo styles.css found
+fi
+
+for i in *.md; do
+    n=${i%.*}.html
+    echo "$i -> $n"
+    pandoc -s $i -o $n $css
+done
