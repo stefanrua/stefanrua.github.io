@@ -24,7 +24,7 @@ Tech: Groovy, Jenkins, Bash \
 
 **Nokia** \
 Trainee \
-Maintenance and tool development for small custom Linux distro \
+Maintenance and tool development for small custom Linux OS \
 Tech: Python, Bash \
 2019 (7 months)
 
@@ -49,5 +49,6 @@ Swedish (conversant)
 
 ## Interests
 
-Technology, Linux, programming, video games, snowboarding, cycling, and learning new
-and fascinating things.
+Technology, Linux, programming, photography, keyboards, video games, Kashima
+Shin-ryū (鹿島神流), snowboarding, cycling, and learning new and fascinating
+things.
