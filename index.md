@@ -17,6 +17,10 @@ title: Home
 
 Thanks to [Otto A. Laitinen](https://www.flickr.com/people/oalaitinen/) for this picture.
 
-There's nothing on this page yet. Look at [my photographs](photos.html) instead :)
+**Stefan Rua** is my name and this is my website. There isn't much on this page
+yet, so I suggest having a look at [my photographs](photos.html) instead.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You can also have a look at [the code for this
+page](https://github.com/stefanrua/stefanrua.github.io), although there isn't
+much code to see as the whole page is just compiled to html from markdown using
+*pandoc*.
