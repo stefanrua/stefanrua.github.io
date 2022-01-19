@@ -2,12 +2,12 @@
 title: Home
 ---
 
-[[Home](index.html)] [Photographs](photos.html) [CV](cv.html)
+\[[Home](index.html)\] [Photographs](photos.html) [CV](cv.html)
 
 <img
     src="https://live.staticflickr.com/65535/50315522002_a6a3acfcee_o_d.jpg"
     style="
-        border-radius: 50%;
+        border-radius: 10%;
         max-width: 200px;
         margin: 20px auto;
     "
@@ -20,7 +20,7 @@ Thanks to [Otto A. Laitinen](https://www.flickr.com/people/oalaitinen/) for this
 **Stefan Rua** is my name and this is my website. There isn't much on this page
 yet, so I suggest having a look at [my photographs](photos.html) instead.
 
-You can also have a look at [the code for this
+You can also check out [the code for this
 page](https://github.com/stefanrua/stefanrua.github.io), although there isn't
 much code to see as the whole page is just compiled to html from markdown using
 *pandoc*.

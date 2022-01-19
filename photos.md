@@ -2,7 +2,7 @@
 title: Photographs
 ---
 
-[Home](index.html) [[Photographs](photos.html)] [CV](cv.html)
+[Home](index.html) \[[Photographs](photos.html)\] [CV](cv.html)
 
 ![](https://live.staticflickr.com/65535/50813412698_3136a375af_c_d.jpg)
 ![](https://live.staticflickr.com/65535/50830680558_1735295bfd_c_d.jpg)
