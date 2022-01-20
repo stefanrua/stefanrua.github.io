@@ -21,17 +21,19 @@ Stefan Rua \
 Computer Science (ongoing) \
 2017 -
 
-I did my bachelor's thesis on feature selection for low sample sizes of high
+My major is in Machine Learning, Data Science and Artificial Intelligence.  I
+did my bachelor's thesis on feature selection for low sample sizes of high
 dimensional cancer cell data using dimensionality reduction and clustering
-methods with Sandor Szedmak as my instructor.
-My major is in Machine Learning, Data Science and Artificial Intelligence in
-the Computer Science Master's Programme.
+methods. The goal was to find a better set of features for
+[comboLTR](https://pubmed.ncbi.nlm.nih.gov/34252952/), a machine learning
+method for finding new drug combinations. Sandor Szedmak from Juha Rousu's
+group was my instructor.
 
 **SYK, Helsingin Suomalainen Yhteiskoulu** \
 International Baccalaureate (IB) Diploma Programme \
 2014 - 2017
 
-## Experience
+## Work Experience
 
 **Nokia** \
 Trainee \
@@ -49,10 +51,10 @@ Tech: Python, Bash, Openstack \
 
 Python, C, R, Go, Bash, Groovy, Scala, SQL
 
-I've used Python and it's scikit-learn, NumPy, and pandas libraries extensively
-in my studies, making them my strongest suit at the moment.
+I've used Python and its scikit-learn, NumPy, and pandas libraries extensively
+in my studies.
 In C I've used OpenMP and CUDA for parallel computing.
-I've used R and RStan for statistical modeling for a course on bayesian data analysis recently.
+I've used R and RStan for statistical modeling for a course on Bayesian data analysis recently.
 
 ## Languages
 
@@ -61,14 +63,14 @@ English (fluent) \
 French (fluent) \
 Swedish (conversant)
 
-## Acknowledgements
+## Awards
 
-**TuKoKe science and technology competition** \
+**Tutki-Kokokeile-Kehitä (TuKoKe) science and technology competition** \
 First place \
 2017
 
-In my entry "Which types of genes are most significantly differentially
-expressed in lung and lymph node tissue?" I analyzed publicly available RNA sequencing data
+In my project, "Which types of genes are most significantly differentially
+expressed in lung and lymph node tissue?", I analyzed publicly available RNA sequencing data
 using the Chipster software.
 
 ## Interests
