@@ -65,7 +65,7 @@ Swedish (conversant)
 
 ## Awards
 
-**Tutki-Kokokeile-Kehitä (TuKoKe) science and technology competition** \
+**Tutki-Kokeile-Kehitä (TuKoKe) science and technology competition** \
 First place \
 2017
 
