@@ -22,12 +22,10 @@ Computer Science (ongoing) \
 2017 -
 
 My major is in Machine Learning, Data Science and Artificial Intelligence.  I
-did my bachelor's thesis on feature selection for low sample sizes of high
-dimensional cancer cell data using dimensionality reduction and clustering
-methods. The goal was to find a better set of features for
-[comboLTR](https://pubmed.ncbi.nlm.nih.gov/34252952/), a machine learning
-method for finding new drug combinations. Sandor Szedmak from Juha Rousu's
-group was my instructor.
+did my bachelor's thesis on feature selection for cancer cell data using
+dimensionality reduction and clustering methods. The goal was to find a better
+set of features for [comboLTR](https://pubmed.ncbi.nlm.nih.gov/34252952/), a
+machine learning method for finding new drug combinations.
 
 **SYK, Helsingin Suomalainen Yhteiskoulu** \
 International Baccalaureate (IB) Diploma Programme \
@@ -43,7 +41,7 @@ Tech: Groovy, Jenkins, Bash \
 
 **Nokia** \
 Trainee \
-Maintenance and tool development for small custom Linux OS \
+Maintenance and tool development for a custom Linux OS for 5G servers \
 Tech: Python, Bash, Openstack \
 2019 (7 months)
 
@@ -68,10 +66,6 @@ Swedish (conversant)
 **Tutki-Kokeile-Kehitä (TuKoKe) science and technology competition** \
 First place \
 2017
-
-In my project, "Which types of genes are most significantly differentially
-expressed in lung and lymph node tissue?", I analyzed publicly available RNA sequencing data
-using the Chipster software.
 
 ## Interests
 
