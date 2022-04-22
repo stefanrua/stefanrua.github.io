@@ -2,7 +2,7 @@
 title: Home
 ---
 
-\[[Home](index.html)\] [Photographs](photos.html) [CV](cv.html)
+\[[Home](index.html)\] [Photos](photos.html) [CV](cv.html)
 
 <img
     src="https://live.staticflickr.com/65535/50315522002_a6a3acfcee_o_d.jpg"
@@ -18,7 +18,7 @@ title: Home
 Thanks to [Otto A. Laitinen](https://www.flickr.com/people/oalaitinen/) for this picture.
 
 **Stefan Rua** is my name and this is my website. There isn't much on this page
-yet, so I suggest having a look at [my photographs](photos.html) instead.
+yet, so I suggest having a look at [my photos](photos.html) instead.
 
 You can also check out [the code for this
 page](https://github.com/stefanrua/stefanrua.github.io), although there isn't

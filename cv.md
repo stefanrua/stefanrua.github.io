@@ -2,7 +2,7 @@
 title: CV
 ---
 
-[Home](index.html) [Photographs](photos.html) \[[CV](cv.html)\]
+[Home](index.html) [Photos](photos.html) \[[CV](cv.html)\]
 
 <img
     src="https://i.imgur.com/ca7NF1Z.jpg"

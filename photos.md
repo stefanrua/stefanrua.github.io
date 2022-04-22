@@ -1,8 +1,8 @@
 ---
-title: Photographs
+title: Photos
 ---
 
-[Home](index.html) \[[Photographs](photos.html)\] [CV](cv.html)
+[Home](index.html) \[[Photos](photos.html)\] [CV](cv.html)
 
 ![](https://live.staticflickr.com/65535/51997564305_4f1b1ac32b_c_d.jpg)
 ![](https://live.staticflickr.com/65535/51996021137_a15482fc3d_c_d.jpg)
