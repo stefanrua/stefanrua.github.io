@@ -18,20 +18,29 @@ Stefan Rua \
 ## Education
 
 **Aalto University** \
-Computer Science (ongoing) \
-2017 -
+Computer Science \
+B.Sc (2022) \
+M.Sc (ongoing)
 
-My major is in Machine Learning, Data Science and Artificial Intelligence.  I
+My major is in Machine Learning, Data Science and Artificial Intelligence. I
 did my bachelor's thesis on feature selection for cancer cell data using
 dimensionality reduction and clustering methods. The goal was to find a better
 set of features for [comboLTR](https://pubmed.ncbi.nlm.nih.gov/34252952/), a
 machine learning method for finding new drug combinations.
 
-**SYK, Helsingin Suomalainen Yhteiskoulu** \
-International Baccalaureate (IB) Diploma Programme \
-2014 - 2017
+## Work
 
-## Work Experience
+**Finnish Geospatial Research Institute (FGI)** \
+Assistant Researcher \
+Applying neural networks to agricultural data: predicting yield and detecting alien species \
+Tech: Python, PyTorch, Slurm \
+2022 - 2023 (9 months)
+
+**CERN** \
+Summer Student \
+Benchmarking GPU-enabled lossless compressors \
+Tech: C, Python \
+2022 (2.5 months)
 
 **Nokia** \
 Trainee \
@@ -49,10 +58,10 @@ Tech: Python, Bash, Openstack \
 
 Python, C, R, Go, Bash, Groovy, Scala, SQL
 
-I've used Python and its scikit-learn, NumPy, and pandas libraries extensively
-in my studies.
+I've used Python and its PyTorch, scikit-learn, NumPy, and pandas libraries
+extensively in my studies.
 In C I've used OpenMP and CUDA for parallel computing.
-I've used R and RStan for statistical modeling for a course on Bayesian data analysis recently.
+I've used R and RStan for statistical modeling for a course on Bayesian data analysis.
 
 ## Languages
 
@@ -61,13 +70,6 @@ English (fluent) \
 French (fluent) \
 Swedish (conversant)
 
-## Awards
+## Other interests
 
-**Tutki-Kokeile-Kehitä (TuKoKe) science and technology competition** \
-First place \
-2017
-
-## Interests
-
-Linux, programming, photography, Kashima Shin-ryū (a Japanese martial art), keyboards, video
-games, snowboarding, cycling.
+Photography, Kashima Shin-ryū, keyboards, video games, cycling.
