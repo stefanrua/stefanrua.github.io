@@ -30,28 +30,28 @@ machine learning method for finding new drug combinations.
 
 ## Work
 
-**Finnish Geospatial Research Institute (FGI)** \
+**FGI** \
 Assistant Researcher \
-Applying neural networks to agricultural data: predicting yield and detecting alien species \
-Tech: Python, PyTorch, Slurm \
+Applying neural networks to agricultural image data, predicting yield and detecting alien species. \
+Python, PyTorch, Slurm \
 2022 - 2023 (9 months)
 
 **CERN** \
 Summer Student \
-Benchmarking GPU-enabled lossless compressors \
-Tech: C, Python \
+Benchmarking GPU-enabled lossless compressors. \
+C, Python \
 2022 (2.5 months)
 
 **Nokia** \
 Trainee \
-CI pipeline development for developing/testing/updating/publishing containers \
-Tech: Groovy, Jenkins, Bash \
+CI pipeline development for developing/testing/updating/publishing containers. \
+Groovy, Jenkins, Bash \
 2020 - 2021 (12 months)
 
 **Nokia** \
 Trainee \
-Maintenance and tool development for a custom Linux OS for 5G servers \
-Tech: Python, Bash, Openstack \
+Maintenance and tool development for a custom Linux OS for 5G servers. \
+Python, Bash, Openstack \
 2019 (7 months)
 
 ## Programming
