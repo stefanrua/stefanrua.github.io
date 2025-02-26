@@ -32,6 +32,12 @@ machine learning method for finding new drug combinations.
 
 **FGI** \
 Assistant Researcher \
+Developing deep learning methods for detecting and segmenting tree species. \
+Python, PyTorch, Slurm \
+2024 - 2025 (12 months)
+
+**FGI** \
+Assistant Researcher \
 Applying neural networks to agricultural image data, predicting yield and detecting alien species. \
 Python, PyTorch, Slurm \
 2022 - 2023 (9 months)
@@ -59,7 +65,7 @@ Python, Bash, Openstack \
 Python, C, R, Go, Bash, Groovy, Scala, SQL
 
 I've used Python and its PyTorch, scikit-learn, NumPy, and pandas libraries
-extensively in my studies.
+extensively in my studies and work.
 In C I've used OpenMP and CUDA for parallel computing.
 I've used R and RStan for statistical modeling for a course on Bayesian data analysis.
 
@@ -72,4 +78,4 @@ Swedish (conversant)
 
 ## Other interests
 
-Photography, Kashima Shin-ryū, keyboards, video games, cycling.
+Motorcycling, photography, computer keyboards, video games, cycling.
