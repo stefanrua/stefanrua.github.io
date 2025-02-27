@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -19,7 +28,8 @@
 <header id="title-block-header">
 <h1 class="title">Home</h1>
 </header>
-<p>[<a href="index.html">Home</a>] <a href="photos.html">Photos</a> <a href="cv.html">CV</a></p>
+<p>[<a href="index.html">Home</a>] <a href="photos.html">Photos</a> <a
+href="cv.html">CV</a></p>
 <p><img
     src="https://live.staticflickr.com/65535/50315522002_a6a3acfcee_o_d.jpg"
     style="
@@ -29,8 +39,14 @@
     "
 /></p>
 <h2 id="hey-its-me">Hey, it’s me!</h2>
-<p>Thanks to <a href="https://www.flickr.com/people/oalaitinen/">Otto A. Laitinen</a> for this picture.</p>
-<p><strong>Stefan Rua</strong> is my name and this is my website. There isn’t much on this page yet, so I suggest having a look at <a href="photos.html">my photos</a> instead.</p>
-<p>You can also check out <a href="https://github.com/stefanrua/stefanrua.github.io">the code for this page</a>, although there isn’t much code to see as the whole page is just compiled to html from markdown using <em>pandoc</em>.</p>
+<p>Thanks to <a href="https://www.flickr.com/people/oalaitinen/">Otto A.
+Laitinen</a> for this picture.</p>
+<p><strong>Stefan Rua</strong> is my name and this is my website. There
+isn’t much on this page yet, so I suggest having a look at <a
+href="photos.html">my photos</a> instead.</p>
+<p>You can also check out <a
+href="https://github.com/stefanrua/stefanrua.github.io">the code for
+this page</a>, although there isn’t much code to see as the whole page
+is just compiled to html from markdown using <em>pandoc</em>.</p>
 </body>
 </html>

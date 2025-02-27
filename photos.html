@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -19,8 +28,19 @@
 <header id="title-block-header">
 <h1 class="title">Photos</h1>
 </header>
-<p><a href="index.html">Home</a> [<a href="photos.html">Photos</a>] <a href="cv.html">CV</a></p>
-<p><img src="https://live.staticflickr.com/65535/51997564305_4f1b1ac32b_c_d.jpg" /> <img src="https://live.staticflickr.com/65535/51996021137_a15482fc3d_c_d.jpg" /> <img src="https://live.staticflickr.com/65535/50814161536_21086b6859_c_d.jpg" /> <img src="https://live.staticflickr.com/65535/50813234058_2c9c11178e_c_d.jpg" /> <img src="https://live.staticflickr.com/65535/49203931301_851392f0cd_c_d.jpg" /></p>
-<p><small> See <a href="https://www.flickr.com/photos/183738521@N07/">my flickr</a> for more photos. </small></p>
+<p><a href="index.html">Home</a> [<a href="photos.html">Photos</a>] <a
+href="cv.html">CV</a></p>
+<p><img
+src="https://live.staticflickr.com/65535/51997564305_4f1b1ac32b_c_d.jpg" />
+<img
+src="https://live.staticflickr.com/65535/51996021137_a15482fc3d_c_d.jpg" />
+<img
+src="https://live.staticflickr.com/65535/50814161536_21086b6859_c_d.jpg" />
+<img
+src="https://live.staticflickr.com/65535/50813234058_2c9c11178e_c_d.jpg" />
+<img
+src="https://live.staticflickr.com/65535/49203931301_851392f0cd_c_d.jpg" /></p>
+<p><small> See <a href="https://www.flickr.com/photos/183738521@N07/">my
+flickr</a> for more photos. </small></p>
 </body>
 </html>
